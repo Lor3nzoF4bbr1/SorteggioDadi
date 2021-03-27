@@ -1,0 +1,15 @@
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\bin\Debug\AsincronoWPF.exe.config
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\bin\Debug\AsincronoWPF.exe
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\bin\Debug\AsincronoWPF.pdb
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.csprojAssemblyReference.cache
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\App.g.cs
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF_MarkupCompile.cache
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF_MarkupCompile.lref
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\MainWindow.baml
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.g.resources
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.Properties.Resources.resources
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.csproj.GenerateResource.cache
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.csproj.CoreCompileInputs.cache
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.exe
+C:\Users\fabbr\OneDrive\Desktop\Compiti\tpsit\AsincronoWPF\AsincronoWPF\obj\Debug\AsincronoWPF.pdb
