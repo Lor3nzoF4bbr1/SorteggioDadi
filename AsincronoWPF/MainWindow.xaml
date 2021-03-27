@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btn1" Content="Bottone1" HorizontalAlignment="Left" Margin="79,192,0,0" VerticalAlignment="Top" Width="194" Height="99" Click="btn1_Click" RenderTransformOrigin="0.343,-0.484"/>
-        <Button x:Name="btnSorteggia" Content="Sorteggia" HorizontalAlignment="Left" Margin="525,192,0,0" VerticalAlignment="Top" Width="143" Height="99" Click="btnSorteggia_Click"/>
-        <Label x:Name="lblRandom" Content="" HorizontalAlignment="Left" Height="62" Margin="575,125,0,0" VerticalAlignment="Top" Width="67"/>
+        <Button x:Name="btnSorteggia" Content="Sorteggia" HorizontalAlignment="Left" Margin="341,240,0,0" VerticalAlignment="Top" Width="143" Height="99" Click="btnSorteggia_Click"/>
+        <Image x:Name="imgDadoN1" Source="dado-1.jpg" HorizontalAlignment="Left" Height="100" Margin="183,87,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image x:Name="imgDadoN2" Source="dado-1.jpg" HorizontalAlignment="Left" Height="100" Margin="542,87,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
