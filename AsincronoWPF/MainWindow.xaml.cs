@@ -65,16 +65,59 @@ namespace AsincronoWPF
                     sorteggiato2 = r.Next(1, 7);
                     this.Dispatcher.BeginInvoke(new Action(() =>
                     {
-                        imgDadoN1.Source = dado5;
+                        switch (sorteggiato1)
+                        {
+                            case 1:
+                                imgDadoN1.Source = dado1;
+                                break;
+                            case 2:
+                                imgDadoN1.Source = dado2;
+                                break;
+                            case 3:
+                                imgDadoN1.Source = dado3;
+                                break;
+                            case 4:
+                                imgDadoN1.Source = dado4;
+                                break;
+                            case 5:
+                                imgDadoN1.Source = dado5;
+                                break;
+                            case 6:
+                                imgDadoN1.Source = dado6;
+                                break;
+                        }
+
+                        switch (sorteggiato2)
+                        {
+                            case 1:
+                                imgDadoN2.Source = dado1;
+                                break;
+                            case 2:
+                                imgDadoN2.Source = dado2;
+                                break;
+                            case 3:
+                                imgDadoN2.Source = dado3;
+                                break;
+                            case 4:
+                                imgDadoN2.Source = dado4;
+                                break;
+                            case 5:
+                                imgDadoN2.Source = dado5;
+                                break;
+                            case 6:
+                                imgDadoN2.Source = dado6;
+                                break;
+                        }
                     }));
-                    Thread.Sleep(100);
+                    Thread.Sleep(200);
                 }
             });
         }
 
         private void btnSorteggia_Click(object sender, RoutedEventArgs e)
         {
-            //MessageBox.Show(sorteggiato.ToString());
+            int somma = sorteggiato1 + sorteggiato2;
+            MessageBox.Show(somma.ToString());
         }
     }
 }
